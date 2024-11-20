@@ -1,0 +1,69 @@
+<!DOCTYPE html>  
+<html> 
+    <head> 
+ 
+ 
+    </head> 
+ 
+ 
+ 
+ 
+ 
+ 
+    <body> 
+         
+ 
+ 
+        <script> 
+ 
+            var x=10; 
+            var y=5; 
+ 
+            var a=x+y; 
+            var b=x-y; 
+            var c=x*y; 
+            var d=x/y; 
+ 
+ 
+            alert("addition is :"+ a); 
+            alert("subtraction is :"+ b); 
+            alert("multipication is :"+ c); 
+            alert("devision is :"+ d); 
+ 
+ 
+ 
+ 
+ 
+        </script> 
+ 
+ 
+    </body> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+</html>
